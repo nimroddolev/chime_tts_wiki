@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchime_tts_wiki=self.webpackChunkchime_tts_wiki||[]).push([[6638],{8500:t=>{t.exports=JSON.parse('{"permalink":"/chime_tts_wiki/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchime_tts_wiki=self.webpackChunkchime_tts_wiki||[]).push([[1900],{2635:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/chime_tts_wiki/blog/tags/hola","allTagsPath":"/chime_tts_wiki/blog/tags","count":1,"unlisted":false}')}}]);

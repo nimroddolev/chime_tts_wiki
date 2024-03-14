@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchime_tts_wiki=self.webpackChunkchime_tts_wiki||[]).push([[9647],{7121:(e,s,r)=>{r.r(s),r.d(s,{default:()=>n});r(6540);var t=r(4164),c=r(1003),i=r(7559),u=r(2831),a=r(781),h=r(4848);function n(e){return(0,h.jsx)(c.e3,{className:(0,t.A)(i.G.wrapper.docsPages),children:(0,h.jsx)(a.A,{children:(0,u.v)(e.route.routes)})})}}}]);

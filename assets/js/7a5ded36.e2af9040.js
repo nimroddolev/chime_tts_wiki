@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchime_tts_wiki=self.webpackChunkchime_tts_wiki||[]).push([[6060],{8853:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/chime_tts_wiki/blog/tags/docusaurus","allTagsPath":"/chime_tts_wiki/blog/tags","count":4,"unlisted":false}')}}]);
